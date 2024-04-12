@@ -16,7 +16,7 @@ function About() {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Iam experienced Front End developer over 5 years of experience in
+              Iam experienced FrontEnd developer over 5 years of experience in
               the field. Throughout my carrer.I have the privilige of
               collaborating with prestegious organizations, contributing to
               their success and growth.
