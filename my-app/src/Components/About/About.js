@@ -23,7 +23,7 @@ function About() {
             </p>
             <p>
               My passion for frontend developement is not only reflected in my
-              extensive experience but also in the enthusiasm and dedication i
+              extensive Experience but also in the enthusiasm and dedication i
               bring to each project.
             </p>
           </div>
